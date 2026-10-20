@@ -1,1 +1,0 @@
-{"uuid": "0df7eaeb-8b51-4079-8eb4-df22f94a5c7f", "befores": [{"name": "remove_fields", "status": "passed", "start": 1792434470927, "stop": 1792434470927}], "afters": [{"name": "remove_fields::<lambda>", "start": 1792434471032}], "start": 1792434470927, "stop": 1792434471032}
